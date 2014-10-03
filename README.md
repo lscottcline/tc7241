@@ -1,4 +1,4 @@
 tc7241
 ======
 
-Sample contact application
+Sample contact application for Scott Cline
